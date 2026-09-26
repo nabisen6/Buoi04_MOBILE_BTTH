@@ -1,7 +1,7 @@
 # Week 4 - Layout với Flexbox - BookStore Online
 
-**MSSV:** 23734591  
-**Họ tên:** Đặng Võ Thế Thịnh
+**MSSV:** 23734861
+**Họ tên:**Lục Thị Sen
 
 ## Nội dung
 - Bài tập 1: Home Screen hoàn chỉnh: Header cố định + Category Chips + Book Grid + Floating Cart Button.
